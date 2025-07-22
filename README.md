@@ -1,7 +1,7 @@
 # Hi there, this is Yuchen Zhang~👋
 
 ## I am a game programmer from SMU Guildhall. I'm passionate about gameplay programming and game engine development.
-## Here is my customized game engine built on DirectX 11
+### Here is my customized game engine built on DirectX 11
 - Doomenstein - A 3D FPS game
 - Starship - A 2D top-down wave-based shooter
 - Libra -  A 2D top-down tank shooter game

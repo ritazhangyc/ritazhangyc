@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, this is Yuchen Zhang~👋
+
+<img width="1155" height="741" alt="Screenshot 2025-07-21 235504" src="https://github.com/user-attachments/assets/931478ba-456b-4db0-b9e4-4031d771281c" />
+
 
 <!--
 **ritazhangyc/ritazhangyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
